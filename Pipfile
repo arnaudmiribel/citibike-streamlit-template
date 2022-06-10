@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = ">=1.10.0"  # Requires multipage app
+matplotlib = "*"
+seaborn = "*"
+pydeck = "*"
+snowflake-connector-python = ">=2.7.8"
+geopy = "*"
+folium = "*"
+streamlit-folium = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
