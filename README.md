@@ -1,5 +1,9 @@
 # Citibike app in Streamlit
 
+## Inspiration
+
+Visit this app to get [some inspiration](https://citibike-hackathon.streamlitapp.com/) about what one can do with the Citibike dataset!
+
 ## Get started!
 
 1. Install dependencies. Run
